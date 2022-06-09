@@ -1,4 +1,5 @@
 # Spring-Data-JPA-Relationships
+=============================
 
-This is a repository to support a [YouTube Tutorial Video](https://youtu.be/f5bdUjEIbrg) I was working on.
-# Spring-Data-JPA-Relationships
+## General info
+The aim of this project is to understand how to create relationships between the entities
