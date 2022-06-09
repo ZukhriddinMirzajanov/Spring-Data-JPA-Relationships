@@ -12,6 +12,7 @@ public class StudentController {
     @Autowired
     StudentRepository studentRepository;
 
+//    getting students
     @GetMapping
     List<Student> getStudents() {
         return studentRepository.findAll();
